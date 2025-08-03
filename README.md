@@ -1,13 +1,8 @@
-# Awesome Game design list 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Game design documents and other literature 
 
-A list of publicly available Game design documents that I have found interesting. 
-(Ok... the list is slowly evolving. The main focus will still be game design materials, but will also include additional cool tools at the end) 
+A list of publicly available Game design documents. 
 
 I do not own any of these documents. If there are any copyrighted materials, they belong to the original authors.
-
-Enjoy. 
-
 
 ## Contents:
 
